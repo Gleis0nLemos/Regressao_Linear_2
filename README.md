@@ -1,11 +1,11 @@
 ### Regressão linear: Técnicas avançadas de modelagem
     Curso Alura :P
 
-#### Conteúdos aprendidos na AULA 01:
+#### Resumo, AULA 02:
 
 ###
-    - Como importar a biblioteca pandas;
-    - Como ler e visualizar os dados;
-    - Como verificar o tamanho do dataset;
-    - Como criar uma tabela com estatísticas descritivas dos dados do dataset;
-    - Como criar uma matriz de correlação dos dados da tabela de estatísticas descritivas.
+    - Como configurar a formatação dos gráficos;
+    - Como construir o box-plot da variável dependente;
+    - Como realizar a distribuição de frequências da variável dependente;
+    - Como plotar os gráficos de dispersão entre as variáveis do dataset;
+    - A análise da dispersão entre as variáveis.
