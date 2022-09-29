@@ -1,11 +1,12 @@
 ### Regressão linear: Técnicas avançadas de modelagem
     Curso Alura :P
 
-#### Resumo, AULA 02:
+#### O que foi visto na AULA 03:
 
 ###
-    - Como configurar a formatação dos gráficos;
-    - Como construir o box-plot da variável dependente;
-    - Como realizar a distribuição de frequências da variável dependente;
-    - Como plotar os gráficos de dispersão entre as variáveis do dataset;
-    - A análise da dispersão entre as variáveis.
+    - A transformar os dados
+        *Como aplicar a transformação logarítmica aos dados do dataset
+        *Como realizar a distribuição de frequências da variável dependente transformada
+
+    - Como plotar os gráficos de dispersão entre as variáveis transformadas do dataset
+    - Como analisar a dispersão entre as variáveis transformadas
